@@ -37,12 +37,3 @@ pip install pandas matplotlib
 
 Run the main script:
 python py.main.py
-
-Project Structure:
-personal_finance_tracker/
-│
-├── py.main.py                  # Main script to run the application
-├── data_entry.py               # Helper functions for user input
-├── finance_data.csv            # CSV file to store transaction data (created on first run)
-└── README.md                   # Project documentation
-
